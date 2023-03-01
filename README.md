@@ -19,3 +19,9 @@ https://www.youtube.com/watch?v=bj2F0hTiTtw
 https://www.jetbrains.com/ko-kr/idea/
 
 https://www.youtube.com/watch?v=A74TOX803D0&t=211s
+
+자바를 언어부분만 공부하는 방법이 있습니다.
+
+https://replit.com/
+
+위 링크로 만들면 됩니다.
